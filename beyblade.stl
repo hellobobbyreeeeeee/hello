@@ -1,0 +1,131 @@
+solid BeybladeTriangleBlade
+
+facet normal 0 0 1
+  outer loop
+    vertex -5 -5 0
+    vertex 5 -5 0
+    vertex 0 6 0
+  endloop
+endfacet
+
+facet normal 0 0 -1
+  outer loop
+    vertex -5 -5 3
+    vertex 0 6 3
+    vertex 5 -5 3
+  endloop
+endfacet
+
+facet normal -0.6 -0.8 0
+  outer loop
+    vertex -5 -5 0
+    vertex -5 -5 3
+    vertex 5 -5 3
+  endloop
+endfacet
+
+facet normal -0.6 -0.8 0
+  outer loop
+    vertex -5 -5 0
+    vertex 5 -5 3
+    vertex 5 -5 0
+  endloop
+endfacet
+
+facet normal 0.6 -0.8 0
+  outer loop
+    vertex 5 -5 0
+    vertex 5 -5 3
+    vertex 0 6 3
+  endloop
+endfacet
+
+facet normal 0.6 -0.8 0
+  outer loop
+    vertex 5 -5 0
+    vertex 0 6 3
+    vertex 0 6 0
+  endloop
+endfacet
+
+facet normal 0 1 0
+  outer loop
+    vertex 0 6 0
+    vertex 0 6 3
+    vertex -5 -5 0
+  endloop
+endfacet
+
+facet normal 0 1 0
+  outer loop
+    vertex 0 6 3
+    vertex -5 -5 3
+    vertex -5 -5 0
+  endloop
+endfacet
+
+facet normal 0 0 1
+  outer loop
+    vertex 0 0 3
+    vertex 2 0 3
+    vertex 1 1.73 3
+  endloop
+endfacet
+
+facet normal 0 0 -1
+  outer loop
+    vertex 0 0 0
+    vertex 1 1.73 0
+    vertex 2 0 0
+  endloop
+endfacet
+
+facet normal -0.866 -0.5 0
+  outer loop
+    vertex 0 0 0
+    vertex 0 0 3
+    vertex 2 0 3
+  endloop
+endfacet
+
+facet normal -0.866 -0.5 0
+  outer loop
+    vertex 0 0 0
+    vertex 2 0 3
+    vertex 2 0 0
+  endloop
+endfacet
+
+facet normal 0.866 -0.5 0
+  outer loop
+    vertex 2 0 0
+    vertex 2 0 3
+    vertex 1 1.73 3
+  endloop
+endfacet
+
+facet normal 0.866 -0.5 0
+  outer loop
+    vertex 2 0 0
+    vertex 1 1.73 3
+    vertex 1 1.73 0
+  endloop
+endfacet
+
+facet normal 0 1 0
+  outer loop
+    vertex 1 1.73 0
+    vertex 1 1.73 3
+    vertex 0 0 0
+  endloop
+endfacet
+
+facet normal 0 1 0
+  outer loop
+    vertex 1 1.73 3
+    vertex 0 0 3
+    vertex 0 0 0
+  endloop
+endfacet
+
+endsolid BeybladeTriangleBlade
